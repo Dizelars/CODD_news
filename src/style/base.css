@@ -1,0 +1,17 @@
+@import '../../node_modules/reset-css/reset.css';
+@import '../style/fonts.css';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'MoscowSans', sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 1280px;
+    padding: 0 5px;
+    margin: 0 60px;
+}
